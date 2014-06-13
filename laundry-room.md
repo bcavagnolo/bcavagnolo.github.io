@@ -191,6 +191,9 @@ acceptable. White thermofoil finish with basic hardware is acceptable. I expect
 that inexpensive manufactured options should exist, and that expensive custom
 cabinetry will not be required.
 
+Where not obscured by the cabinets, the foundation ledge must be enclosed in a
+simple shelf similar to the existing shelf.
+
 Note the proposed location of the existing laundry room water heater and the
 new water heater for #40. I expect that the ventilation for these units can
 travel through the cavity between the joists in the ceiling above to the
@@ -203,6 +206,17 @@ overstock.com](http://www.overstock.com/Home-Garden/Transitional-1-Light-Brushed
 would be fine.
 
 ![Light](/images/laundry-room/light.jpg)
+
+Electrical outlets should be provided as required by code.
+
+The new laundry room should have simple wood baseboard throughout, and simple
+trim around the new door and new window. Something without any miters or detail
+like the following would be fine:
+
+![Trim](/images/laundry-room/trim.jpg)
+
+The whole interior, including baseboard and trim, should be painted with Kelly
+Moore Swiss Coffee semi-gloss.
 
 # Bid Requirements
 
@@ -264,6 +278,12 @@ clients, can evaluate the individual contributions of the owners.
 
 - Source and install two inexpensive surface-mount light fixtures controlled by
   a single switch near the door
+
+- Install electrical outlets as required per code
+
+- Install simple window trim, door trim, and baseboard trim
+
+- Paint two coats of a single color on entire interior
 
 ## General Requirements
 
