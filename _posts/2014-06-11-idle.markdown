@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Shh."
-date:   2014-06-11 12:35:00
----
-
-Nothing to see here.

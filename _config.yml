@@ -7,5 +7,5 @@ baseurl: ""
 url: "http://bcavagnolo.github.io"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
